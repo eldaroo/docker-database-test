@@ -1,0 +1,9 @@
+{
+    "connection":{
+        "server" : "cpanel128.wnpservers.net",
+        "user" : "tejeman1_test",
+        "password" : "Delaflorsolar123'",
+        "database" : "tejeman1_test",
+        "port": "3306"
+    }
+}

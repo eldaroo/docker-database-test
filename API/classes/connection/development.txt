@@ -1,0 +1,9 @@
+{
+    "connection":{
+        "server" : "localhost",
+        "user" : "root",
+        "password" : "1234",
+        "database" : "logisticait",
+        "port": "3306"
+    }
+}
